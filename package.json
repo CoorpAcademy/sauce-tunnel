@@ -19,7 +19,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "request": "~2.21.0",
-    "chalk": "~0.4.0"
+    "request": "~2.78.0",
+    "chalk": "~1.1.3"
   }
 }
